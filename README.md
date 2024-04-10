@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisIsGur
+- 👋 Hi,@thisIsGur
 - 👀 I’m interested in learning and working with  new tech.
 - 🌱 I’m currently learning rust 
 
